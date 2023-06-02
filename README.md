@@ -2,7 +2,7 @@
 
 Utilize the GoSales.csv and menu.csv datasets along with the Python programming language in the Google Colab platform to generate 14 data visualizations, each tailored to meet specific data visualization requirements. The objective is to effectively present the data using visual representations. Here are the detailed tasks for this project.
 
-->	Dataset : GoSales.csv
+->	Dataset : *GoSales.csv*
 
 Perform data visualization on the GoSales.csv dataset to better understand the purchase information/data contained in the dataset. Here are the details of the tasks that need to be completed:
 
@@ -13,7 +13,7 @@ Perform data visualization on the GoSales.csv dataset to better understand the p
 8.	Visualize the number of customers who purchased products for each product type (PRODUCT_LINE) by profession (PROFESSION).
 9.	Add 2 other useful visualizations in addition to the 5 visualizations above.
 
-->	Dataset : menu.csv
+->	Dataset : *menu.csv*
 
 Perform data visualization from the menu.csv dataset to gain a clearer understanding of the nutritional information/data contained in the dataset. Here are the details of the tasks that need to be completed:
 
